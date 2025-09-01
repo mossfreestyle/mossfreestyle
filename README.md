@@ -53,7 +53,6 @@ Actuellement **étudiant à l'École 42 Paris**, j'aime construire des projets q
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mossfreestyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossfreestyle&layout=compact&langs_count=8&theme=tokyonight" />
 <br/>
 <img height="170em" src="https://streak-stats.demolab.com?user=mossfreestyle&theme=tokyonight&hide_border=true" />
@@ -89,3 +88,4 @@ Actuellement **étudiant à l'École 42 Paris**, j'aime construire des projets q
 ![Visitor Count](https://komarev.com/ghpvc/?username=mossfreestyle&color=00D9FF&style=flat-square)
 
 </div>
+
