@@ -1,57 +1,77 @@
+
 <div align="center">
 
-# Salut, je suis **Wassim** !
+# 👋 Salut, je suis **Wassim**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Étudiant+à+42+Paris;Développeur+C%2FC%2B%2B;Passionné+de+code+propre" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=500&lines=Étudiant+%40+42+Paris;Développeur+C%2FC%2B%2B;Fan+de+clean+code+%26+algo;Toujours+partant+pour+apprendre" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎓 **À propos de moi**
+## 🎓 À propos
 
-Je suis actuellement **étudiant à l'École 42 Paris**, où j'apprends à maîtriser l'art de la programmation à travers des projets concrets et stimulants.
+Actuellement **étudiant à l'École 42 Paris**, j'aime construire des projets qui m'apprennent vraiment quelque chose : gestion mémoire, algorithmique, programmation système et qualité du code.
 
-### 🛠️ **Mes langages principaux**
+---
+
+## 🧰 Stack & outils
+
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- Langages -->
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+<!-- Outils -->
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Make" src="https://img.shields.io/badge/Makefile-1f6feb?style=for-the-badge&logo=cmake&logoColor=white" />
+<img alt="Valgrind" src="https://img.shields.io/badge/Valgrind-6f4210?style=for-the-badge" />
+<img alt="GDB" src="https://img.shields.io/badge/GDB-000000?style=for-the-badge" />
+
+<!-- Environnement -->
+<img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 **Statistiques GitHub**
+## 🚀 Projets mis en avant
+
+- 🔢 **[Fractol](https://github.com/mossfreestyle/fractol)** — Visualiseur de fractales *(Mandelbrot, Julia)* avec **MiniLibX**, zoom, déplacements et palettes.
+- 🧠 **Projets 42 (C & algo)** — Exercices et modules pour consolider **pointeurs**, **allocation**, **parsing** et **optimisations**.
+- 💡 **Exploration C++** — Concepts modernes (RAII, OOP, STL) et petites libs utilitaires.
+
+> 👉 Retrouvez tous mes dépôts sur l’onglet **Repositories** de mon profil.
+
+---
+
+## 📈 Statistiques GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mossfreestyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossfreestyle&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mossfreestyle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossfreestyle&layout=compact&langs_count=8&theme=tokyonight" />
+<br/>
+<img height="170em" src="https://streak-stats.demolab.com?user=mossfreestyle&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🚀 **Projets en cours**
+## 🎯 Objectifs
 
-- 🔢 **[Fractol](https://github.com/mossfreestyle/fractol)** - Visualiseur de fractales (Mandelbrot, Julia) avec MiniLibX
-- 🧠 **Projets 42** - Développement de compétences en algorithmes et structures de données
-- 💡 **Exploration C++** - Approfondissement des concepts avancés
-
----
-
-## 🎯 **Objectifs actuels**
-
-- ✅ Maîtriser la gestion mémoire en C
-- ✅ Développer des algorithmes optimisés
-- 🔄 Explorer la programmation système
-- 🔄 Contribuer à des projets open source
+- ✅ Maîtriser en profondeur la **gestion mémoire** en C (allocations sûres, outils de debug).
+- ✅ Développer des **algorithmes** clairs et efficaces.
+- 🔄 Approfondir la **programmation système** (processus, signaux, IPC).
+- 🔄 Contribuer à des **projets open source**.
 
 ---
 
-## 📫 **Me contacter**
+## 🤝 Me contacter
 
 <div align="center">
 
@@ -64,7 +84,7 @@ Je suis actuellement **étudiant à l'École 42 Paris**, où j'apprends à maît
 
 <div align="center">
 
-### 💭 *"Code is poetry written in logic"*
+> 💭 *"Code is poetry written in logic"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mossfreestyle&color=00D9FF&style=flat-square)
 
